@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+	
+	<result>
+		<errmsg>Success.</errmsg>
+		<code>0</code>
+	</result>
+
+	<alarm-list>
+		<alarms>
+
+			<alarm>
+				<alarm-id>
+					815fa3b2a0d84a2c986d83ff1873bee6#e5341182e3e811e8800080b575d0ebca012216@2
+				</alarm-id>
+				<type>0</type>
+				<rule>
+					<type>1</type>
+				</rule>
+				<alarm-time>
+					1541745005049
+				</alarm-time>
+				<ba-info>
+					<object id="421" type="unknown"/>
+					<object-count-in>0</object-count-in>
+					<object-count-out>0</object-count-out>
+				</ba-info>
+				<fr-info>
+					<base></base>
+					<face-id></face-id>
+					<score></score>
+				</fr-info>
+				<alarm-level>1</alarm-level>
+				<lpr-info>
+					<car-bright></car-bright>
+					<car-color></car-color>
+					<car-direction></car-direction>
+					<confidence></confidence>
+					<license-plate></license-plate>
+					<plateId></plateId>
+					<plate-color></plate-color>
+					<plate-rect><bottom></bottom>
+					<left></left>
+					<right></right>
+					<top></top>
+				</plate-rect>
+				<plate-type></plate-type>
+				</lpr-info>
+				<pictureId>815fa3b2a0d84a2c986d83ff1873bee6%235be5296d1b7ace4f3260a96b</pictureId>
+				<source>1</source>
+			</alarm>
+
+			<domainCode>
+				815fa3b2a0d84a2c986d83ff1873bee6
+			</domainCode>
+
+			<host>
+				<index>0</index>
+				<machineId></machineId>
+			</host>
+
+			<task-info>
+				<camera-id>00792680000000000101#5011c29bd51145a4917f42f0fbfb73ec</camera-id>
+				<camera-name>192_168_3_233</camera-name>
+				<case-file-id></case-file-id>
+				<resolution>352,288</resolution>
+				<task-id>154019439068267739</task-id>
+			</task-info>
+
+		</alarms>
+
+	</alarm-list>
+
+	<totalCount>18184</totalCount>
+</response>
